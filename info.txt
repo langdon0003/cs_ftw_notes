@@ -1,0 +1,3 @@
+My name is: J 
+My age is: 33 
+My education: BA
